@@ -1,4 +1,4 @@
-# WHERE IS WALDO
+# Where is Wally
 Using TF Object Detection API for detecting Waldo in some pictures
 
 ## 1.- Clone in your computer
