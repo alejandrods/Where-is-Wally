@@ -1,5 +1,7 @@
 # Where is Wally
-Using TF Object Detection API for detecting Waldo in some pictures
+Brief approach using TF Object Detection API for finding Wally. I remember when I was a child I spent hours trying to figure out where Wally was. I had a lot of fun with these books but sometimes I lost my patience and I anxiously awaited the development of a system that could find Wally automatically.
+
+Currently, thanks to Artificial Intelligence this is possible, so this jupyter notebook entails a quite easy approach to apply the Tensorflow Object Detection API. We have trained it with several pictures of Wally and we got to detect Wally in some images. It doesn't work in every picture because we need to insert more pictures for training, but I think it's a good result for starters.
 
 ## 1.- Clone in your computer
 https://github.com/tensorflow/models
