@@ -54,4 +54,4 @@ From `./object_detection`. Remember to check in the `folder train/model/` the la
 - `python export_inference_graph.py --input_type image_tensor --pipeline_config_path ./WALLY/Train/ssd_mobilenet_v1_pets.config --trained_checkpoint_prefix ./WALLY/Train/models/train/model.ckpt-[INSERT NUMBER] --output_directory ./WALLY/Train/saved_model`
 
 ## 8.- Execute Jupyter Notebook
-You can find my saved model in Predict Folder and execute the jupyter notebook to check my results.
+You can find my saved model in the `Predict` folder. You can try to execute the jupyter notebook to check the results.
